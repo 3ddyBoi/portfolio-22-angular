@@ -1,1 +1,7 @@
+.img-flex {
+  display: flex;
+}
 
+.img-flex img {
+  width: 10vw;
+}
