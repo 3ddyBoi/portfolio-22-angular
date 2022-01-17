@@ -1,4 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+/* Fonts: https://fonts.google.com/share?selection.family=Cormorant:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700%7COpen%20Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800%7CPT%20Sans:ital,wght@0,400;0,700;1,400;1,700 */
+
 body {
   margin: 0;
+  font-family: "PT Sans", sans-serif;
+}
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+}
+
+caption {
+  font-family: "Cormorant", serif;
+  font-weight: 700;
+}
+
+p {
+  font-family: "PT Sans", sans-serif;
 }
